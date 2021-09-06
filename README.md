@@ -1,6 +1,4 @@
-### Oi!!!
-
-    Impactar vidas através da tecnologia é o que me move. 
+### Impactar vidas através da tecnologia é o que me move. 
 
 - 💻 Trabalho na Avanade com RPA e análise de funcionalidades.
 - 📜 Estou estudando JavaScript e Clean Code associado a boas práticas.
