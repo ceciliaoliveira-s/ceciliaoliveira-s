@@ -1,7 +1,10 @@
 ### Oi!!!
 
-- 🔭 Atualmente trabalho na Avanade com RPA e análise de funcionalidades.
-- 🌱 Estou estudando JavaScript e Clean Code associado a boas práticas.
+ Impactar vidas através da tecnologia é o que me move. 
+
+- 💻 Trabalho na Avanade com RPA e análise de funcionalidades.
+- 📜 Estou estudando JavaScript e Clean Code associado a boas práticas.
+- 💬 Além da tecnologia, música, arte, poesia e muay thai são minhas paixões.
 
  <div>
   <a href="https://github.com/ceciliaoliveira-s">
