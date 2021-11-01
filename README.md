@@ -1,8 +1,7 @@
    ###    Impactar vidas através da tecnologia é o que me move. 
 
 - 💻 Atualmente estudando JavaScript e Clean Code associado a boas práticas.
-- 💬 Além da tecnologia, música, arte, poesia e muay thai são minhas paixões.
-
+- 
  <div>
   <a href="https://github.com/ceciliaoliveira-s">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ceciliaoliveira-s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
