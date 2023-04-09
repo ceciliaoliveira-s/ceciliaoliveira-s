@@ -1,6 +1,6 @@
    ###    Impactar vidas através da tecnologia é o que me move. 
 
-- 💻 Atualmente estudando JavaScript e Clean Code associado a boas práticas.
+- 💻 Atualmente estudando Web Developer (HTML, CSS e JavaScript) juntamente com o Framework React.JS e Clean Code associado a boas práticas.
 
  <div>
   <a href="https://github.com/ceciliaoliveira-s">
